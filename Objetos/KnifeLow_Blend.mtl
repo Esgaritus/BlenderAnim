@@ -1,0 +1,16 @@
+# Blender MTL File: 'KnifeLow_Blend.blend'
+# Material Count: 1
+
+newmtl Knife
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Github\\BlenderAnim\\Texture_PBR_MetalRough_2K\\texture\\KnifeLow_normal.png
+map_Kd D:\\Github\\BlenderAnim\\Texture_PBR_MetalRough_2K\\texture\\KnifeLow_albedo.jpg
+map_Ns D:\\Github\\BlenderAnim\\Texture_PBR_MetalRough_2K\\texture\\KnifeLow_roughness.jpg
+refl D:\\Github\\BlenderAnim\\Texture_PBR_MetalRough_2K\\texture\\KnifeLow_metallic.jpg

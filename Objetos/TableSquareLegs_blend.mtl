@@ -1,0 +1,29 @@
+# Blender MTL File: 'TableSquareLegs_blend.blend'
+# Material Count: 2
+
+newmtl Material
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.029382 0.029382 0.029382
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Github\\BlenderAnim\\TableSquareLegs_blend\\textures\\Metal\\Metal_nrm.jpg
+map_Kd D:\\Github\\BlenderAnim\\TableSquareLegs_blend\\textures\\Metal\\Metal_col.jpg
+map_Ns D:\\Github\\BlenderAnim\\TableSquareLegs_blend\\textures\\Metal\\Metal_rgh.jpg
+refl D:\\Github\\BlenderAnim\\TableSquareLegs_blend\\textures\\Metal\\Metal_met.jpg
+
+newmtl Table
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Github\\BlenderAnim\\TableSquareLegs_blend\\textures\\Wood\\Wood_nrm.jpg
+map_Kd D:\\Github\\BlenderAnim\\TableSquareLegs_blend\\textures\\Wood\\Wood_col.jpg
+map_Ns D:\\Github\\BlenderAnim\\TableSquareLegs_blend\\textures\\Wood\\Wood_rgh.jpg
